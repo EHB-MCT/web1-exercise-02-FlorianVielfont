@@ -1,0 +1,31 @@
+body {
+    background-color: #e9eaea;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    fallback: initial;
+    margin: 50px;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: black;
+}
+
+h3 {
+    color: black;
+}
+
+.grijs {
+    color: #666;
+}
+
+a {
+    background-color: red;
+    padding: 20px;
+    display: inline-block;
+    color: #FFF;
+    text-decoration: none;
+    border-radius: 5px;
+}
